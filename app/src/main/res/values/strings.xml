@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="total">Total</string>
+    <string name="totalFinalHint">TOTAL</string>
+    <string name="comida">Comida</string>
+    <string name="cazuela">Cazuela</string>
+    <string name="pastelDeCchoclo">Pastel de Choclo</string>
+    <string name="propinaFija">propina</string>
+    <string name="cant">cant.</string>
+    <string name="totalFijo">total</string>
+    <string name="propinaHint">Propina</string>
+    <string name="totalComidaHint">total comida</string>
+</resources>
