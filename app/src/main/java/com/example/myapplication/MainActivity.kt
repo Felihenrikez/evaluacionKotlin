@@ -26,7 +26,7 @@ class MainActivity : AppCompatActivity() {
     private var tvPropina: TextView? = null
     private var propina = false
 
-
+        
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
