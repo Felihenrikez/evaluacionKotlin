@@ -27,7 +27,7 @@ class MainActivity : AppCompatActivity() {
     private var propina = false
 
         /* creo que por aca debi borrar alguna linea de codigo
-        * ya que no logro iniciar como antes*/
+        * ya que no logro iniciar como antes aunque logre eliminar los errrores no logro iniciar la app*/
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
